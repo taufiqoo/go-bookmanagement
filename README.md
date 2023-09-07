@@ -67,4 +67,10 @@ Response
     "author": "Rick Riordan",
     "publication": "Kompas"
 }
-5.  Delete Book by Id (/book/{bookId}, method DELETE) -> /bpok/3
+5.  Delete Book by Id (/book/{bookId}, method DELETE) -> /book/3
+{
+    "id": 0,
+    "name": "",
+    "author": "",
+    "publication": ""
+}
