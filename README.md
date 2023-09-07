@@ -1,7 +1,7 @@
-## Task Terakhir VIX Fullstack Developer BTPNS
+## Todolist Buku
 
-### Getting Started With Go Backend App
-1. Lakukan konfigurasi pada folder ```condig/db.go```
+### Initiating Your Go Backend Application
+1. Lakukan konfigurasi pada folder ```config/db.go```
 2. Jalankan command ```go run main.go```
 
 ### Tech Stack
